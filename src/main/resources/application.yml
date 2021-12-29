@@ -14,4 +14,3 @@ spring:
         event-in-0:
           destination: event
 
-
